@@ -7,7 +7,7 @@
 
 	<servlet>
 		<servlet-name>hello</servlet-name>
-		<servlet-class>com.jenkins.servlet.HelloServet</servlet-class>
+		<servlet-class>com.jenkins.servlet.HelloServlet</servlet-class>
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>hello</servlet-name>
